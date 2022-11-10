@@ -1,11 +1,0 @@
-
-<
-sampledb.sql,6\1\615284ffade8b4089792471a709398d4688419ec
-<
-logging.conf,5\a\5a3e5a0a25edd7d86cfd5898773590bfa7c680a8
-@
-credentials.json,7\4\749dcc9e92f723c96ed4a3a908ded1bc559c66a9
-7
-main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
-6
-gui.py,a\8\a895a3c5719c169f000471bf708be4eb25842386
